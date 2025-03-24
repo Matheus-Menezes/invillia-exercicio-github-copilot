@@ -74,7 +74,7 @@ activities = {
             "description": "Develop public speaking and argumentation skills",
             "schedule": "Mondays, 3:30 PM - 4:30 PM",
             "max_participants": 10,
-            "participants": ["logan@mergington.edu", "harper@mergington.edu"]
+            "participants": ["lagan@mergington.edu", "harper@mergington.edu"]
         }
 } 
 
