@@ -100,6 +100,7 @@ def signup_for_activity(activity_name: str, email: str):
     activity = activities[activity_name]
 
     # Validar se o aluno já está inscrito
+    # Validate student is not already signed up
     if email in activity["participants"]:
         return {"message": f"{email} already signed up for {activity_name}"}
 
